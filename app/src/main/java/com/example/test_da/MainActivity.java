@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
             //ajdkjajdkaaaaggg
-        //dcm phuong ngu vc
+        //dcm diep ngu vc
     }
 }
