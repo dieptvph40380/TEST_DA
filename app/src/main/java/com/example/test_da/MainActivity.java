@@ -13,11 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
             //ajdkjajdkaaaaggg
-            //test_dat
-            //test_
-        ///dattesst
-        //dieptesst
-        //dattessssssst
-        //test
+
     }
 }
